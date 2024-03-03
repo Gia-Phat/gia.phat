@@ -1,0 +1,26 @@
+.gradient-text {
+  font-size: 36px;
+  font-weight: bold;
+  background: blue; l
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; l
+  display: inline-block;
+}
+
+.button-container {
+    text-align: center;
+  .button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color: #45a049;
